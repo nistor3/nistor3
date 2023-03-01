@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Emil :)
 - 👀 I’m interested in mechatronic systems.
-- 🌱 I’m currently learning about embedded software (C/C++).
+- 🌱 I’m currently learning about embedded software.
 - 💞️ I’m looking to collaborate on  ¯\_(ツ)_/¯
 
 <!---
